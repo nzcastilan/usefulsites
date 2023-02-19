@@ -17,8 +17,8 @@ usefulsites
 - https://stockimg.ai/
 - https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3
 - https://search.google.com/test/mobile-friendly
-
-
+- https://color.adobe.com/create
+- https://www.myfonts.com/pages/sans-serif-fonts
 
 
 ![image](https://user-images.githubusercontent.com/98207228/219978202-af717297-882b-4ae8-8387-2383061bf136.png)
